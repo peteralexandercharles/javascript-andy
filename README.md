@@ -1,7 +1,6 @@
-# python-crash-course
-My Python Crash Course Review
-![](https://images-na.ssl-images-amazon.com/images/I/81vmJCNCm6L.jpg)
-[Source](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)
+# JavaScript
+
+![](https://m.media-amazon.com/images/I/51OYi3UOw3L._SY346_.jpg)
 
 # The Zen of Python, by Tim Peters
 
@@ -25,5 +24,5 @@ My Python Crash Course Review
     If the implementation is easy to explain, it may be a good idea.
     Namespaces are one honking great idea -- let's do more of those!
   
-# Hello World with Python Tutor!
-Visit our project in [Python Crash Couse](https://peteralexandercharles.github.io/python-crash-course/)
+# JavaScript!
+Visit our project in [JavaScript](https://github.com/peteralexandercharles/javascript)
